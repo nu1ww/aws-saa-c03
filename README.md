@@ -53,6 +53,21 @@ You can practice all questions using the web interface:
 
 This repository includes both **web-based practice** and **offline study materials**:
 
+---
+
+## 👤 Author
+
+**Nuwan Wijethilaka**  
+Senior Technical Lead | AWS Certified Solutions Architect – Associate  
+
+- 💼 10+ years of experience in software engineering  
+- ☁️ Specialized in AWS, PHP (Laravel), Vue.js, and cloud-native architectures  
+- 🏗️ Focused on scalable systems, SaaS platforms, and real-world problem solving  
+- 🎯 Passionate about knowledge sharing and mentoring engineers  
+
+🔗 LinkedIn: https://www.linkedin.com/in/nuwanwijethilaka
+
+
 ## 🍀 Good Luck With Your Exam!
 
 Wishing you all the best on your **AWS Certified Solutions Architect – Associate** exam.  
