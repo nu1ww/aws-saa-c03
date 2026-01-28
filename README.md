@@ -7,7 +7,7 @@
 
 ## 🎯 Project Purpose
 
-The goal of this project is simple: http://aws-saa-c03-question.s3-website-us-east-1.amazonaws.com/
+The goal of this project is simple: 
 
 > **Make high-quality AWS exam practice accessible to everyone — without paywalls.**
 
@@ -42,7 +42,7 @@ This repository is also intended to demonstrate:
 
 You can practice all questions using the web interface:
 
-🔗 **Web Portal:**  
+🔗 **Web Portal:**  http://aws-saa-c03-question.s3-website-us-east-1.amazonaws.com/
 `-----`
 
 > Designed for fast iteration, focused learning, and exam-style thinking.
@@ -52,4 +52,9 @@ You can practice all questions using the web interface:
 ## 📄 Repository Structure
 
 This repository includes both **web-based practice** and **offline study materials**:
+
+## 🍀 Good Luck With Your Exam!
+
+Wishing you all the best on your **AWS Certified Solutions Architect – Associate** exam.  
+Practice well, think like an architect, and trust your preparation 🚀
 
